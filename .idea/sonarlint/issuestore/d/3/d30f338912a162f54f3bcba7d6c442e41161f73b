@@ -1,0 +1,26 @@
+
+E
+java:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú» ¶£.
+^
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“8¾é§µ£.
+N
+java:S1068",Remove this unused "BASE_URL" private field.(âªæÌÿÿÿÿÿ8ºğšµ£.
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(²¨ç÷8Úá¯¶£.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(İßÅŒıÿÿÿÿ8¡è©¶£.
+E
+java:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥¥µ£.
+J
+java:S1068"-Remove this unused "BTC_TRADE" private field.(Í§Ÿ8ºğšµ£.
+O
+java:S1128"-Remove this unused import 'okhttp3.Response'.(Ï‚ñ—øÿÿÿÿ8¥¥µ£.
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8ÌÁ¶£.
+]	java:S125#"<This block of commented-out lines of code should be removed.(Áˆ°’ûÿÿÿÿ8¥¥µ£.
+g
+java:S1128"KRemove this unused import 'com.gene.cyptomonitoringtools.utils.OkHttpUtil'.(ªƒŠ<8¥¥µ£.
+]	java:S125="<This block of commented-out lines of code should be removed.(Áˆ°’ûÿÿÿÿ8Ú» ¶£.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(”åÕ÷ûÿÿÿÿ8‚ó«¶£.
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8‡ĞÀ¶£.
+k
+java:S1128"IRemove this unused import 'com.gene.cyptomonitoringtools.utils.HttpUtil'.(šÁÃ¹ıÿÿÿÿ8¥¥µ£.

@@ -1,0 +1,13 @@
+
+Z
+java:S1118":Add a private constructor to hide the implicit public one.(ë¢ñãûÿÿÿÿ8ÓÈ½‰£.
+L
+java:S4423",Change this code to use a stronger protocol.(ùÆÏ†şÿÿÿÿ8¡ş½‰£.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÓÈ½‰£.
+d
+java:S2259"DA "NullPointerException" could be thrown; "buffer" is nullable here.(Í…ôîûÿÿÿÿ8ÓÈ½‰£.
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(şİ¼Ø8ÓÈ½‰£.
+6
+java:S1116"Remove this empty statement.(ÙôóS8ÓÈ½‰£.

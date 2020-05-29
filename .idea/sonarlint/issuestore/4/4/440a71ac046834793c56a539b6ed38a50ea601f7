@@ -1,0 +1,37 @@
+
+`
+java:S4830"@Enable server certificate validation on this SSL/TLS connection.(àóÈ•ıÿÿÿÿ8ëîˆ£.
+[	java:S125"<This block of commented-out lines of code should be removed.(ş¬Šşüÿÿÿÿ8ëîˆ£.
+[	java:S125"<This block of commented-out lines of code should be removed.(§„’Ÿùÿÿÿÿ8ëîˆ£.
+e
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¶˜ñÒûÿÿÿÿ8ëîˆ£.
+·
+java:S4449"–Annotate the parameter with @javax.annotation.Nullable in method 'sslSocketFactory' declaration, or make sure that null can not be passed as argument.(ÄíïÎúÿÿÿÿ8ëîˆ£.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëîˆ£.
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¡âõÆ8ëîˆ£.
+[	java:S125"<This block of commented-out lines of code should be removed.(¹µ±íúÿÿÿÿ8ëîˆ£.
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(÷ÿø8ëîˆ£.
+X
+java:S1874"8Remove this use of "sslSocketFactory"; it is deprecated.(ÄíïÎúÿÿÿÿ8ëîˆ£.
+^
+java:S1858">"next" returns a string, there's no need to call "toString()".(ü†úÆıÿÿÿÿ8ëîˆ£.
+e
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ãèñ²øÿÿÿÿ8ëîˆ£.
+w
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ãèñ²øÿÿÿÿ8ëîˆ£.
+U	java:S125"<This block of commented-out lines of code should be removed.(Îïëv8ëîˆ£.
+p	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¿Ä¥øÿÿÿÿ8ëîˆ£.
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æ¸Êä8ëîˆ£.
+V	java:S125"<This block of commented-out lines of code should be removed.(íÊ©Ò8ëîˆ£.
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á÷é8ëîˆ£.
+C	java:S108")Either remove or fill this block of code.(”ı¾8ëîˆ£.
+¡
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àóÈ•ıÿÿÿÿ8ëîˆ£.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëîˆ£.
+[
+java:S4830"@Enable server certificate validation on this SSL/TLS connection.(Æ¸Êä8ëîˆ£.
